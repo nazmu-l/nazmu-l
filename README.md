@@ -43,7 +43,7 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
 <!-- web related skills section start  -->
 ## 👨🏽‍💻 &nbsp; My Skills :
 
-### Key Skills on Font-End:
+### Front-End :
 <img  align="left" alt="html-5" title="html-5" width="45" hspace="10" src="./image/html-5.png" />
 <img  align="left" alt="css" title="css" width="45" hspace="10" src="./image/css.png" />
 <img  align="left" alt="bootstrap" title="bootstrap" width="45" hspace="10" src="./image/bootstrap.png" />
@@ -51,7 +51,7 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
 <br />
 <br />
 
-### Key Skills on Back-End:
+### Back-End:
 <img  align="left" alt="php" title="php" width="45" hspace="10" src="./image/php.png" />
 <img  align="left" alt="mysql" title="mysql" width="45" hspace="10" src="./image/mysql.png" />
 
