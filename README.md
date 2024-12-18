@@ -70,9 +70,71 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
 <img  align="left" alt="elementor" title="elementor" width="45" hspace="10" src="./image/elementor.png" />
 <img  align="left" alt="ecommerce WEBSITE" title="ecommerce" width="45" hspace="10" src="./image/ecommerce.png" />
 
-
-
+<br />
+<br />
 
 <!-- web related skills section ends   -->
+
+<!-- github stats Start  -->
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmu-l)](https://github.com/anuraghazra/github-readme-stats)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmu-l&show_icons=true)
+
+<!-- github stats ends   -->
+
+<!-- education section start  -->
+
+### 👨🏻‍🎓 &nbsp; Education
+
+1. B.Sc. in Computer Science & Engineering<br/>
+   Alhaz Mockbul Hossain University College   
+   Mohammadpur, Dhaka.
+
+2.  Higher Secondary School Certificate  
+   Kazipur Govt. Mansur Ali College   
+   Kazipur, Sirajganj.
+
+<br />
+
+<!-- education section ends   -->
+
+<!-- languages section start -->
+
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Native
+
+  <br />
+
+<!-- languages section ends   -->
+
+<!-- sports and game section start  -->
+
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, 🏐 Volleyball
+- 🏊‍♂️ Swimming, 🚶‍♂️ Walking
+- ✈️ Travelling 
+<br />
+
+<!-- sports and games section ends   -->
+### Why hire me:
+🔴 Quick Contact (24/7) <br/>
+🔴 Unlimited Revisions until you're satisfied <br/>
+🔴 60 days support after-sales service<br/>
+🔴100% customizable & manageable design<br/>
+
+---
+
+Thanks for going through my Portfolio. <br/>
+All rights reserved by Nazmul hossain @2024
+
+
+
 
 
