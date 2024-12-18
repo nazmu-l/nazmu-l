@@ -65,7 +65,7 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
 <br />
 <br />
 
-### Key Skills on CMS :
+### CMS :
 <img  align="left" alt="wordpress" title="wordpress" width="45" hspace="10" src="./image/wordpress.png" />
 <img  align="left" alt="elementor" title="elementor" width="45" hspace="10" src="./image/elementor.png" />
 <img  align="left" alt="ecommerce WEBSITE" title="ecommerce" width="45" hspace="10" src="./image/ecommerce.png" />
