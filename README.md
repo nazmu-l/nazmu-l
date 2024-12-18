@@ -7,6 +7,7 @@
 [twitter]: https://github.com/wpnazmul
 
 
+
 <!-- banner image Area Start  -->
 <img src="./image/nazmul.jpg" width="100%" hight="100%">
 <!-- banner image Area End  -->
@@ -30,7 +31,7 @@ WordPress Web Designer & Developer | Elementor And WooCommerce Expert | Wix and 
 
 <!-- about-me section Area start  -->
 
-## 👨‍🏫 &nbsp; About Me
+##  &nbsp; About Me
 
 <p align="justify">
 I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress and WooCommerce Expert. I try my best to make sure of 100% client satisfaction.
@@ -40,18 +41,37 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
 
 
 <!-- web related skills section start  -->
-## 👨🏽‍💻 &nbsp; My Skills & Videos:
+## 👨🏽‍💻 &nbsp; My Skills :
 
-### Key Skills & Videos on Web development:
-<img  align="left" alt="website" title="website" width="45" hspace="10" src="./image/website.png" /> 
-<img  align="left" alt="website" title="website" width="45" hspace="10" src="./image/website.png" />
-<img  align="left" alt="website" title="website" width="45" hspace="10" src="./image/website.png" />
-<img  align="left" alt="website" title="website" width="45" hspace="10" src="./image/website.png" />
-<img  align="left" alt="website" title="website" width="45" hspace="10" src="./image/website.png" />
+### Key Skills on Font-End:
+<img  align="left" alt="html-5" title="html-5" width="45" hspace="10" src="./image/html-5.png" />
+<img  align="left" alt="css" title="css" width="45" hspace="10" src="./image/css.png" />
+<img  align="left" alt="bootstrap" title="bootstrap" width="45" hspace="10" src="./image/bootstrap.png" />
 
 <br />
 <br />
+
+### Key Skills on Back-End:
+<img  align="left" alt="php" title="php" width="45" hspace="10" src="./image/php.png" />
+<img  align="left" alt="mysql" title="mysql" width="45" hspace="10" src="./image/mysql.png" />
+
+<br/>
+<br/>
+
+### Programming Language :
+<img  align="left" alt="c" title="c" width="45" hspace="10" src="./image/c.png" />
+<img  align="left" alt="c++" title="c++" width="45" hspace="10" src="./image/c++.png" />
+
 <br />
+<br />
+
+### Key Skills on CMS :
+<img  align="left" alt="wordpress" title="wordpress" width="45" hspace="10" src="./image/wordpress.png" />
+<img  align="left" alt="elementor" title="elementor" width="45" hspace="10" src="./image/elementor.png" />
+<img  align="left" alt="ecommerce WEBSITE" title="ecommerce" width="45" hspace="10" src="./image/ecommerce.png" />
+
+
+
 
 <!-- web related skills section ends   -->
 
