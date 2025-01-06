@@ -1,3 +1,11 @@
+
 h2{
-  color="red";
+  color: red;
+  font-size:50px;
+  text-align: center;
+}
+h3{
+  color: rgb(238, 241, 7);
+  font-size:80px;
+  text-align: center;
 }
