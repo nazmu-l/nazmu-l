@@ -80,21 +80,8 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
 <br />
 
 <!-- github stats Start -->
-<br />
-<br />
 
-<!-- টপ ল্যাঙ্গুয়েজ কার্ড -->
-<a href="https://github.com/nazmu-l">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nazmu-l&layout=compact&theme=dark" alt="Top Langs" />
-</a>
-
-<br /><br />
-
-<!-- মেইন স্ট্যাটস কার্ড -->
-<a href="https://github.com/nazmu-l">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nazmu-l&show_icons=true&theme=dark" alt="My GitHub stats" />
-</a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
 <!-- বিকল্প স্ট্যাটস কার্ড -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmu-l&theme=dark" alt="GitHub Streak" />
 
