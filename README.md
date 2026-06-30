@@ -79,8 +79,7 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
 <br />
 <br />
 
-<!-- github stats Start -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- বিকল্প স্ট্যাটস কার্ড -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmu-l&theme=dark" alt="GitHub Streak" />
