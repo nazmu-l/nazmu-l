@@ -95,6 +95,9 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nazmu-l&show_icons=true&theme=dark" alt="My GitHub stats" />
 </a>
 
+<!-- বিকল্প স্ট্যাটস কার্ড -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmu-l&theme=dark" alt="GitHub Streak" />
+
 <!-- github stats ends -->
 
 <!-- education section start  -->
