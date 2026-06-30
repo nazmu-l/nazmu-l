@@ -132,8 +132,7 @@ I'm Nazmul Hossain. I'm a Professional Web Designer & Developer, Seo, WordPress 
 🔴100% customizable & manageable design<br/>
 
 ---
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thanks for going through my Portfolio. <br/>
-%20All rights reserved by Nazmul hossain @2024&fontSize=20)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thanks%20for%20going%20through%20my%20Portfolio.%0AAll%20rights%20reserved%20by%20Nazmul%20hossain%20@2024&fontSize=20)](YOUR_LINK_HERE)
 
 Thanks for going through my Portfolio. <br/>
 All rights reserved by Nazmul hossain @2024
